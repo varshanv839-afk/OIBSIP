@@ -1,20 +1,46 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# OIBSIP – Oasis Infobyte Internship Projects
 
-# Run and deploy your AI Studio app
+This repository contains my projects completed during the **Oasis Infobyte Internship (OIBSIP)**.
 
-This contains everything you need to run your app locally.
+## Task 1 – Online Reservation System (Java)
 
-View your app in AI Studio: https://ai.studio/apps/68235ea8-0db4-478b-adab-10d1ed4d2e46
+A console-based railway reservation system developed using Java. It allows users to log in, reserve tickets, cancel tickets, and navigate through a menu.
 
-## Run Locally
+### Features
+- Login authentication
+- Ticket reservation
+- Passenger details entry
+- Train name and journey date
+- Source and destination
+- Ticket ID generation
+- Ticket cancellation
+- Menu-based interface
 
-**Prerequisites:**  Node.js
+### Technology Used
+- Java
+- Scanner
+- Switch-case
+- Conditional statements
 
+### Demo Login
+- Username: `admin`
+- Password: `1234`
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Project Files
+- [Java Source Code](OnlineReservationSystem.java)
+- [Java Task Documentation](README_Java_Task1.md)
+
+### Project Status
+Completed and tested.
+
+---
+
+## Original Web Application
+
+This repository also contains the React and TypeScript web application prototype, including reservation, ticket lookup, cancellation, and interface components.
+
+## Author
+
+**Varsha N.**
+
+Oasis Infobyte Internship – OIBSIP
