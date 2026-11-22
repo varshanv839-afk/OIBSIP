@@ -1,0 +1,6 @@
+{
+  "name": "Oasis Rail — Online Reservation System",
+  "description": "Railway ticket booking, PNR lookup, and cancellation system built for the Oasis Infobyte Java Development Internship, featuring a modern railway web portal and complete runnable Java console source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

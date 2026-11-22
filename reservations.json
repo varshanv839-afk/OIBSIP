@@ -1,0 +1,32 @@
+[
+  {
+    "pnrNumber": "PNR1004521",
+    "passengerName": "Priya Nair",
+    "trainNumber": "12951",
+    "trainName": "Mumbai Rajdhani Express",
+    "journeyDate": "2026-12-02",
+    "source": "New Delhi",
+    "destination": "Mumbai Central",
+    "seatClass": "2AC",
+    "fare": 3052.5,
+    "bookedByUsername": "passenger1",
+    "bookedAt": "2026-11-20T07:31:16.891Z",
+    "status": "CONFIRMED",
+    "cancelledAt": null
+  },
+  {
+    "pnrNumber": "PNR1004522",
+    "passengerName": "Rohan Verma",
+    "trainNumber": "12002",
+    "trainName": "Bhopal Shatabdi Express",
+    "journeyDate": "2026-12-07",
+    "source": "New Delhi",
+    "destination": "Bhopal Jn",
+    "seatClass": "CC",
+    "fare": 1288,
+    "bookedByUsername": "oasis_intern",
+    "bookedAt": "2026-11-21T07:31:16.891Z",
+    "status": "CONFIRMED",
+    "cancelledAt": null
+  }
+]
